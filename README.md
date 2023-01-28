@@ -2,12 +2,5 @@
 
 this is a public repo
 
-sdfasdfasdf
-asdfasdf
-asdfasdf
-
-add branch
-
-asdfasdf
 
 
